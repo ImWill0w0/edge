@@ -13,7 +13,7 @@ Layer0
 	//---- Color ----
 	g_flModelTintAmount "1.000"
 	g_vColorTint "[1.000000 1.000000 1.000000 0.000000]"
-	TextureColor "E:/SteamLibrary/steamapps/common/sbox/addons/edge/materials/wallpanel1_basecolor.png"
+	TextureColor "materials/wallpanel1_basecolor.png"
 
 	//---- Fade ----
 	g_flFadeExponent "1.000"
@@ -26,13 +26,13 @@ Layer0
 	g_flDirectionalLightmapStrength "1.000"
 
 	//---- Metalness ----
-	TextureMetalness "E:/SteamLibrary/steamapps/common/sbox/addons/edge/materials/wallpanel1_metallic.png"
+	TextureMetalness "materials/wallpanel1_metallic.png"
 
 	//---- Normal ----
-	TextureNormal "E:/SteamLibrary/steamapps/common/sbox/addons/edge/materials/wallpanel1_normal.png"
+	TextureNormal "materials/wallpanel1_normal.png"
 
 	//---- Roughness ----
-	TextureRoughness "E:/SteamLibrary/steamapps/common/sbox/addons/edge/materials/wallpanel1_roughness.png"
+	TextureRoughness "materials/wallpanel1_roughness.png"
 
 	//---- Texture Coordinates ----
 	g_nScaleTexCoordUByModelScaleAxis "0"
